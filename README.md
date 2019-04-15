@@ -32,22 +32,22 @@ As a user, I am a parent who has both a screeching infant and a toddler throwing
 
 Clicking the “Calm” button will display randomly generated, relaxing images from the creators' own collections.
 
-<img src="calming-images.gif" width="250" height="250" />
-<!-- ![search page](assets/images/start.png) -->
+<!-- <img src="calming-images.gif" width="250" height="250" /> -->
+![gif demonstrating use of calming images section](readme-gifs/calming-images.gif)
 
 ### Inspiring Words
 
 Clicking the “Get Inspiration” button will display random quotes from the npm iQuotes package. Clicking the  “Give Inspiration” button will display quotes submitted by users.
 
-<img src="inspiring-words.gif" width="250" height="250" />
-<!-- ![search page](assets/images/start.png) -->
+<!-- <img src="inspiring-words.gif" width="250" height="250" /> -->
+![gif demonstrating use of inspiring words section](readme-gifs/inspiring-words.gif)
 
 ### Soothing Sounds
 
 Clicking the “Relax” button will call the Spotify API and provide users with a selection from a mix of comedy channels, soothing music, and nature sounds. Users can click the "Relax" button again if the current selection is not to their liking.
 
-<img src="soothing-sounds.gif" width="250" height="250" />
-<!-- ![search page](assets/images/start.png) -->
+<!-- <img src="soothing-sounds.gif" width="250" height="250" /> -->
+![gif demonstrating use of soothing sounds section](readme-gifs/soothing-sounds.gif)
 
 ## Built With:
 - HTML5
