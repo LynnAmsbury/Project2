@@ -81,4 +81,4 @@ Clicking the “Relax” button will call the Spotify API and provide users with
 * Add administrative oversight and functionality to verify that the quotes users input themselves are indeed inspirational and appropriate.
 * Incorporate user accounts.
 
-### Please note that this is a group project that I participated in; I do not own the original repository. I pulled the project code into my repository so I could display it in my body of work. The original repository is https://github.com/zoe-gonzales/Project2.
+### Please note that this is a group project that I participated in; I do not own the original repository. I forked the project code into my repository so I could display it in my body of work. The original repository is https://github.com/zoe-gonzales/Project2.
