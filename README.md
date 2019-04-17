@@ -32,15 +32,21 @@ As a user, I am a parent who has both a screeching infant and a toddler throwing
 
 Clicking the “Calm” button will display randomly generated, relaxing images from the creators' own collections.
 
-<!-- <img src="calming-images.gif" width="250" height="250" /> -->
 ![gif demonstrating use of calming images section](readme-gifs/calming-images-use.gif)
 
 ### Inspiring Words
 
-Clicking the “Get Inspiration” button will display random quotes from the npm iQuotes package. Clicking the  “Give Inspiration” button will display quotes submitted by users.
+Clicking the “Get Inspiration” button will display random quotes from the npm iQuotes package.
 
-<!-- <img src="inspiring-words.gif" width="250" height="250" /> -->
-![gif demonstrating use of inspiring words section](readme-gifs/get-inspiration-use.gif)
+![gif demonstrating use of get inspiration button](readme-gifs/get-inspiration-use.gif)
+
+To submit an inspirational message, users can click the "Submit Content" button on the home page. This takes users to an input area where they can add their own quote.
+
+![gif demonstrating use of submit content button](readme-gifs/submit-quote.gif)
+
+Clicking the  “Give Inspiration” button will display quotes submitted by users.
+
+![gif demonstrating use of give inspiration button](readme-gifs/get-inspiration-use.gif)
 
 ### Soothing Sounds
 
