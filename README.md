@@ -40,7 +40,7 @@ Clicking the “Calm” button will display randomly generated, relaxing images 
 Clicking the “Get Inspiration” button will display random quotes from the npm iQuotes package. Clicking the  “Give Inspiration” button will display quotes submitted by users.
 
 <!-- <img src="inspiring-words.gif" width="250" height="250" /> -->
-![gif demonstrating use of inspiring words section](readme-gifs/inspiring-words.gif)
+![gif demonstrating use of inspiring words section](readme-gifs/get-inspiration-use.gif)
 
 ### Soothing Sounds
 
