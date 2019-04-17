@@ -44,16 +44,16 @@ To submit an inspirational message, users can click the "Submit Content" button 
 
 ![gif demonstrating use of submit content button](readme-gifs/submit-quote.gif)
 
-Clicking the  “Give Inspiration” button will display quotes submitted by users.
+Clicking the “Give Inspiration” button will display quotes submitted by users.
 
-![gif demonstrating use of give inspiration button](readme-gifs/get-inspiration-use.gif)
+![gif demonstrating use of give inspiration button](readme-gifs/submitted-user-quote.gif)
 
 ### Soothing Sounds
 
 Clicking the “Relax” button will call the Spotify API and provide users with a selection from a mix of comedy channels, soothing music, and nature sounds. Users can continue to click the "Relax" button until they find a selection to their liking.
 
 <!-- <img src="soothing-sounds.gif" width="250" height="250" /> -->
-![gif demonstrating use of soothing sounds section](readme-gifs/soothing-sounds.gif)
+![gif demonstrating use of soothing sounds section](readme-gifs/soothing-sounds-use.gif)
 
 ## Built With:
 - HTML5
