@@ -44,7 +44,7 @@ Clicking the “Get Inspiration” button will display random quotes from the np
 
 ### Soothing Sounds
 
-Clicking the “Relax” button will call the Spotify API and provide users with a selection from a mix of comedy channels, soothing music, and nature sounds. Users can click the "Relax" button again if the current selection is not to their liking.
+Clicking the “Relax” button will call the Spotify API and provide users with a selection from a mix of comedy channels, soothing music, and nature sounds. Users can continue to click the "Relax" button until they find a selection to their liking.
 
 <!-- <img src="soothing-sounds.gif" width="250" height="250" /> -->
 ![gif demonstrating use of soothing sounds section](readme-gifs/soothing-sounds.gif)
