@@ -33,7 +33,7 @@ As a user, I am a parent who has both a screeching infant and a toddler throwing
 Clicking the “Calm” button will display randomly generated, relaxing images from the creators' own collections.
 
 <!-- <img src="calming-images.gif" width="250" height="250" /> -->
-![gif demonstrating use of calming images section](readme-gifs/calming-images.gif)
+![gif demonstrating use of calming images section](readme-gifs/calming-images-use.gif)
 
 ### Inspiring Words
 
